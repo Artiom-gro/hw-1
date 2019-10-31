@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main (){
+    int b = 10;
+    int c = 2;
+    
+    int x = b*c;
+    int d = b+b+c+c;
+    
+    cout << "X value is " <<x << endl;
+    cout << " X value is " <<d << endl;
+      
+      return 0;
+}
